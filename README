@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=296
+
+
+A simple script I made for editing Java source. When an ending curly-brace } is inserted the script
+shows the line with the opening brace on the statusline.
+
+Only works when noshowmode is set.
